@@ -1,0 +1,14 @@
+{
+  "status": 1,
+  "user_account": "andrey_nikono@gmail.com",
+  "admin_comment": "уточните адрес",
+  "address": "ул. двинцев 12",
+  "price": 20,
+  "type_place": "Другое",
+  "description": "Нормальный, чистый туалет, пропуск не нужен для входа",
+  "find_wc": "На первом этаже, через главный вход направо",
+  "latitude": 48.42191,
+  "longitude": 76.816406,
+  "city": "Москва",
+  "user_opinion": 5
+}

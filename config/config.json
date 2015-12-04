@@ -1,0 +1,13 @@
+{
+  "development": {
+    "host": "",
+    "port": 5432,
+    "username": "",
+    "password": "",
+    "database": "",
+    "dialect": "",
+    "dialectOptions": {
+      "ssl": true
+    }
+  }
+}
